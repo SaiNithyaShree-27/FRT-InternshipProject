@@ -37,3 +37,4 @@ Diabetes is major metabolic disease that can affect the human body. nowadays, di
 
 **AZURE BOT**
 ![WhatsApp Image 2023-03-13 at 1 16 06 PM](https://user-images.githubusercontent.com/124595023/224638299-8594dff7-ce66-4cb2-9ccc-d2e292f8812c.jpeg)
+![WhatsApp Image 2023-03-13 at 1 19 49 PM](https://user-images.githubusercontent.com/124595023/224640505-6ada51fb-d967-4a86-8749-7684a310b577.jpeg)
