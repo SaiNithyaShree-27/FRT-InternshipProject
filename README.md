@@ -23,7 +23,7 @@ Diabetes is major metabolic disease that can affect the human body. nowadays, di
 **REDUCTION PAGE** 
 ![Screenshot (54)](https://user-images.githubusercontent.com/124595023/224636923-f5e67d23-ded5-45d7-81f3-30b888b87b30.png)
 
-**PREDICTION PAGE**
+**PREDICTION PAGES(MACHINE LEARNING)**
 ![Screenshot (56)](https://user-images.githubusercontent.com/124595023/224636971-50f0bff5-5a0c-43fe-bb92-5c6121a35b21.png)
 ![Screenshot (57)](https://user-images.githubusercontent.com/124595023/224637047-0a7c1ccf-ab00-47ea-8a7b-04bdc53ef4e3.png)
 
@@ -32,9 +32,17 @@ Diabetes is major metabolic disease that can affect the human body. nowadays, di
  
 **Azure technologies used screenshots:**
 
-**WEB APP**
+**WEB APP SERVICE**
 ![Screenshot (58)](https://user-images.githubusercontent.com/124595023/224637990-494e5d39-f666-44c4-a75c-27a49c69d2e3.png)
 
-**AZURE BOT**
+**AZURE BOT SERVICE**
 ![WhatsApp Image 2023-03-13 at 1 16 06 PM](https://user-images.githubusercontent.com/124595023/224638299-8594dff7-ce66-4cb2-9ccc-d2e292f8812c.jpeg)
+
 ![WhatsApp Image 2023-03-13 at 1 19 49 PM](https://user-images.githubusercontent.com/124595023/224640505-6ada51fb-d967-4a86-8749-7684a310b577.jpeg)
+
+**PROJECT DEMO URL:**
+https://dwindlediabet.azurewebsites.net/
+
+**PROJECT DEMO VIDEO URL:**
+https://youtu.be/7BnESkvuBf0
+
